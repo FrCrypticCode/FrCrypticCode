@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cryptic
 - 👀 I’m interested in mysteries of complex software !
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at +33635919129
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cryptic
-- 👀 I’m interested in Net Development, neural network !
+- 👀 I’m interested in all kind of tech, looking to a good project
 - 🌱 I’m currently learning Rust/Tokio Framework
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any Project
 - 📫 How to reach me at +33635919129
 
 <!---

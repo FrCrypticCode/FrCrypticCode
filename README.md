@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cryptic
 - 👀 I’m interested in all kind of tech, looking to a good project
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently working on system and how to build efficient data managers
 - 💞️ I’m looking to collaborate on any Project
 - 📫 How to reach me at +33635919129
 
